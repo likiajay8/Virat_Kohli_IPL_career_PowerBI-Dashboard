@@ -123,7 +123,7 @@ Through this project, I gained hands-on experience in:
 
 **Likith H P**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
+Data Analysis | Power BI | SQL | Python | Data Visualization
 
 ## ⭐ If you found this project interesting, consider giving it a star.
 
