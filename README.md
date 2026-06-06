@@ -82,7 +82,7 @@ The dataset contains Virat Kohli's IPL batting statistics, including:
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshot below:
+
 
 ![Dashboard Preview](Screenshots/Dashboard.png)
 
@@ -124,12 +124,6 @@ Through this project, I gained hands-on experience in:
 **Likith H P**
 
 Aspiring Data Analyst | Power BI | SQL | Python | Data Visualization
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 ## ⭐ If you found this project interesting, consider giving it a star.
 
